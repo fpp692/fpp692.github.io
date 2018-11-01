@@ -1,0 +1,157 @@
+{
+  "basics": {
+    "name": "Fernando Pedraza Pérez",
+    "label": "PhD candidate",
+    "picture": "../assets/images/photo.jpg",
+    "email": "fp4817@ic.ac.uk",
+    "website": "https://fpedraza.github.io",
+    "summary": "A biologist interested in using computational methods to bridge empirical data 
+    and theory in ecology and evolution",
+    "location": {
+      "address": "Monro 2.8 Silwood Park Campus",
+      "postalCode": "SL5 7TG",
+      "city": "Ascot",
+      "countryCode": "UK",
+      "region": "Berkshire"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "Towlette_Pettetucci",
+        "url": "https://twitter.com/Towlette_Pettetucci"
+      },
+      {
+        "network": "Researchgate",
+        "username": "Towlette_Pettetucci",
+        "url": "https://soundcloud.com/Towlette_Pettetucci"
+      }
+    ]
+  },
+  "Professional Experience": [
+    {
+      "organization": "Universidad Nacional Autonoma de Mexico",
+      "position": "Research Assistant",
+      "startDate": "2015-09-01",
+      "endDate": "2017-08-05",
+      "summary": "Performed statistical and mathematical modelling of plant ecological data.
+      Assisted students in fieldwork.",
+      "highlights": [
+        "Contributed to several research papers"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Nacional Autónoma de México",
+      "area" : "Biology",
+      "studyType": "Bachelors",
+      "startDate": "2011-08-08",
+      "endDate": "2016-08-05",
+      "gpa": "9.57/10",
+      "highlights" : "Graduated with honors"
+  },
+  {
+    "institution": "Stanford University",
+    "area" : "Mathematics, Data Mining and Logic",
+    "studyType": "Summer Student",
+    "startDate": "2015-06-22",
+    "endDate": "2015-08-21",
+    "gpa": "Passed"
+},
+    {
+      "institution": "Imperial College London",
+      "area": "Computational Ecology & Evolution",
+      "studyType": "Masters",
+      "startDate": "2017-10-02",
+      "endDate": "2018-09-30",
+      "gpa": "Graduated with high merit",
+      "highlights": [
+      	"Awarded the Harvey Illumina Prize for the highest overall mark in the program"
+      ]
+    }
+  ],
+  "Journal Publications": [
+    {
+      "name": "A diversity world record in a grassland at Oaxaca, Mexico",
+      "authors": "Martorell, C., Zepeda, V., Martinez-Blancas, A., Garcia-Meza, D. and F.~Pedraza",
+      "year": "2017",
+      "journal": "Botanical Sciences",
+      "number": "95(1):1--7",
+      "website": "Poner link aqui"
+    }
+  ],
+  "Submitted Journal Publications": [
+  	{
+  	  "name": "Allocating species in Grime's strategy space: an alternative to trait-based approaches"
+  	},
+  	{
+  	  "name": "Determining which mechanisms underlie plant-plant facilitation
+        in paramos and their relative importance"
+  	},
+  ],
+  "skills": [
+    {
+      "name": "R & Python Programming",
+      "level": "Satisfactory",
+      "keywords": [
+        "Data wrangling",
+        "visualization",
+        "statistical & mathematical modelling",
+      ]
+    },
+    {
+      "name": "Shell scripting & Basic C",
+      "level": "Satisfactory",
+  	},
+	{
+  	  "name": "Version Control",
+  	  "keywords":[
+      	"GitHub"
+  	  ]
+	},
+	{
+  	  "name": "High Performance Computing",
+  	  "level": "Satisfactory",
+	},
+	{
+      "name": "Latex & Bibtex",
+      "level": "Satisfactory",
+	}
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+  },
+    {
+      "language": "English",
+      "fluency": "Bilingual proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Coexistance of species-rich communities",
+      "keywords": [
+        "Competition",
+        "Facilitation",
+        "Stability"
+      ]
+  },
+  {
+    "name": "Coevolution and species interactions",
+    "keywords": [
+      "Interaction networks",
+      "Network structure",
+      "Evolution"
+     ]
+},
+{
+  "name": "Linking theoretical and experimental ecology",
+  "keywords": [
+    "Mathematical and statistical modelling",
+    "Computational simulations"
+  ]
+}
+  ]
+}
+
