@@ -1,5 +1,5 @@
 # Theme Skin
-skin: steel  #night, #default default, night, plum, sea, soft, steel
+skin: night  #night, #default default, night, plum, sea, soft, steel
 
 # Theme Text
 t:
@@ -26,8 +26,10 @@ t:
 
 # Google Fonts
 google_fonts:
-  - name: "Caudex"
+  - name: "Open Sans"
     weights: "300,300i,500,500i"
+  - name: "Open Sans Condensed"
+    
 
 
 # Link to specific internal pages in the navigation.

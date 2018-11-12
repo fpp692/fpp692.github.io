@@ -1,14 +1,14 @@
 {
   "basics": {
     "name": "Fernando Pedraza Pérez",
-    "label": "PhD candidate",
-    "picture": "../assets/images/photo.jpg",
-    "email": "fp4817@ic.ac.uk",
-    "website": "https://fpedraza.github.io",
-    "summary": "A biologist interested in using computational methods to bridge empirical data 
-    and theory in ecology and evolution",
+    "label": "PhD Candidate",
+    "picture": "",
+    "email": "fpp.692@gmail.com",
+    "phone": "(912) 555-4321",
+    "website": "fpp692.github.io",
+    "summary": "I am a Biologist by training who is interested in integrating computational, statistical and mathematical methods to address fundamental questions in Ecology. In past projects I have studied the effects of abiotic stressors on grassland plant species, the mechanisms underpinning plant facilitation in high-altitude environments and the effect of diversity on stability of the microbiota. I am currently in the process of defining my PhD project, which will revolve around evolution in mutualistic networks. ",
     "location": {
-      "address": "Monro 2.8 Silwood Park Campus",
+      "address": "Monroe 2.8",
       "postalCode": "SL5 7TG",
       "city": "Ascot",
       "countryCode": "UK",
@@ -17,141 +17,110 @@
     "profiles": [
       {
         "network": "Twitter",
-        "username": "Towlette_Pettetucci",
-        "url": "https://twitter.com/Towlette_Pettetucci"
+        "username": "Fer_Pedraza92",
+        "url": "https://twitter.com/Fer_Pedraza92"
       },
       {
-        "network": "Researchgate",
-        "username": "Towlette_Pettetucci",
-        "url": "https://soundcloud.com/Towlette_Pettetucci"
+        "network": "GitHub",
+        "username": "fpp692",
+        "url": "https://github.com/fpp692"
       }
     ]
   },
-  "Professional Experience": [
+  "work": [
     {
-      "organization": "Universidad Nacional Autonoma de Mexico",
+      "company": "National Autonomous University of Mexico",
       "position": "Research Assistant",
+      "website": "http://www.fciencias.unam.mx/investigacion/grupos/biologia/ecologia/ambienteslimitantes/ambienteslimitantes",
       "startDate": "2015-09-01",
-      "endDate": "2017-08-05",
-      "summary": "Performed statistical and mathematical modelling of plant ecological data.
-      Assisted students in fieldwork.",
+      "endDate": "2017-09-01",
+      "summary": "I was a research assistant at the Laboratorio de Ambientes Limitantes, UNAM under the supervision of Dr. Martorell.  ",
       "highlights": [
-        "Contributed to several research papers"
+        "Performed statistical and mathematical modelling of plant ecological data, with focus on the effect of abiotic stressors on plant performance.",
+        "Wrote manuscripts describing findings.",
+        "Assisted graduate and undergraduate students in fieldwork."
       ]
     }
   ],
   "education": [
     {
       "institution": "Universidad Nacional Autónoma de México",
-      "area" : "Biology",
-      "studyType": "Bachelors",
+      "area": "Biology (graduated with honors)",
+      "studyType": "Bachelor",
       "startDate": "2011-08-08",
       "endDate": "2016-08-05",
-      "gpa": "9.57/10",
-      "highlights" : "Graduated with honors"
-  },
-  {
-    "institution": "Stanford University",
-    "area" : "Mathematics, Data Mining and Logic",
-    "studyType": "Summer Student",
-    "startDate": "2015-06-22",
-    "endDate": "2015-08-21",
-    "gpa": "Passed"
-},
+    },
+    {
+      "institution": "Stanford University",
+      "area": "Data Mining and Logic",
+      "studyType": "Summer Student",
+      "startDate": "2015-06-22",
+      "endDate": "2015-08-20",
+    },
     {
       "institution": "Imperial College London",
-      "area": "Computational Ecology & Evolution",
+      "area": "Computational Methods in Ecology and Evolution",
       "studyType": "Masters",
       "startDate": "2017-10-02",
       "endDate": "2018-09-30",
-      "gpa": "Graduated with high merit",
-      "highlights": [
-      	"Awarded the Harvey Illumina Prize for the highest overall mark in the program"
-      ]
     }
   ],
-  "Journal Publications": [
+  "awards": [
     {
-      "name": "A diversity world record in a grassland at Oaxaca, Mexico",
-      "authors": "Martorell, C., Zepeda, V., Martinez-Blancas, A., Garcia-Meza, D. and F.~Pedraza",
-      "year": "2017",
-      "journal": "Botanical Sciences",
-      "number": "95(1):1--7",
-      "website": "Poner link aqui"
+      "title": "Harvey Illumina Award",
+      "date": "2018-09-39",
+      "awarder": "Imperial College London",
+      "summary": "This prize was awarded to the highest mark in my masters program"
     }
-  ],
-  "Submitted Journal Publications": [
-  	{
-  	  "name": "Allocating species in Grime's strategy space: an alternative to trait-based approaches"
-  	},
-  	{
-  	  "name": "Determining which mechanisms underlie plant-plant facilitation
-        in paramos and their relative importance"
-  	},
   ],
   "skills": [
     {
-      "name": "R & Python Programming",
-      "level": "Satisfactory",
+      "name": "Computer Programming",
+      "level": "Intermediate",
       "keywords": [
-        "Data wrangling",
-        "visualization",
-        "statistical & mathematical modelling",
+        "R",
+        "Python",
+        "Unix Shell Scripting"
       ]
     },
     {
-      "name": "Shell scripting & Basic C",
-      "level": "Satisfactory",
-  	},
-	{
-  	  "name": "Version Control",
-  	  "keywords":[
-      	"GitHub"
-  	  ]
-	},
-	{
-  	  "name": "High Performance Computing",
-  	  "level": "Satisfactory",
-	},
-	{
-      "name": "Latex & Bibtex",
-      "level": "Satisfactory",
-	}
+      "name": "Productivity ",
+      "level": "Intermediate",
+      "keywords": [
+        "Latex/Bibtex",
+        "SQL",
+        "GitHub"
+      ]
+    }
   ],
   "languages": [
     {
       "language": "Spanish",
       "fluency": "Native speaker"
-  },
+    },
     {
       "language": "English",
-      "fluency": "Bilingual proficiency"
+      "fluency": "Native speaker"
     }
   ],
   "interests": [
     {
-      "name": "Coexistance of species-rich communities",
+      "name": "Ecology",
       "keywords": [
-        "Competition",
-        "Facilitation",
-        "Stability"
+        "Interaction Networks",
+        "Population Ecology",
+        "Species Coexistence",
+        "Theoretical Ecology",
+        "Community Dynamics"
       ]
-  },
-  {
-    "name": "Coevolution and species interactions",
-    "keywords": [
-      "Interaction networks",
-      "Network structure",
-      "Evolution"
-     ]
-},
-{
-  "name": "Linking theoretical and experimental ecology",
-  "keywords": [
-    "Mathematical and statistical modelling",
-    "Computational simulations"
+    },
+    {
+      "name": "Miscellaneous",
+      "keywords": [
+        "Computer Programming",
+        "Photography",
+        "Cinema"
+      ]
+    }
   ]
 }
-  ]
-}
-
