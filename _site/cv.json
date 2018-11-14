@@ -1,0 +1,126 @@
+{
+  "basics": {
+    "name": "Fernando Pedraza Pérez",
+    "label": "PhD Candidate",
+    "picture": "",
+    "email": "fpp.692@gmail.com",
+    "phone": "(912) 555-4321",
+    "website": "fpp692.github.io",
+    "summary": "I am a Biologist by training who is interested in integrating computational, statistical and mathematical methods to address fundamental questions in Ecology. In past projects I have studied the effects of abiotic stressors on grassland plant species, the mechanisms underpinning plant facilitation in high-altitude environments and the effect of diversity on stability of the microbiota. I am currently in the process of defining my PhD project, which will revolve around evolution in mutualistic networks. ",
+    "location": {
+      "address": "Monroe 2.8",
+      "postalCode": "SL5 7TG",
+      "city": "Ascot",
+      "countryCode": "UK",
+      "region": "Berkshire"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "Fer_Pedraza92",
+        "url": "https://twitter.com/Fer_Pedraza92"
+      },
+      {
+        "network": "GitHub",
+        "username": "fpp692",
+        "url": "https://github.com/fpp692"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "National Autonomous University of Mexico",
+      "position": "Research Assistant",
+      "website": "http://www.fciencias.unam.mx/investigacion/grupos/biologia/ecologia/ambienteslimitantes/ambienteslimitantes",
+      "startDate": "2015-09-01",
+      "endDate": "2017-09-01",
+      "summary": "I was a research assistant at the Laboratorio de Ambientes Limitantes, UNAM under the supervision of Dr. Martorell.  ",
+      "highlights": [
+        "Performed statistical and mathematical modelling of plant ecological data, with focus on the effect of abiotic stressors on plant performance.",
+        "Wrote manuscripts describing findings.",
+        "Assisted graduate and undergraduate students in fieldwork."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Nacional Autónoma de México",
+      "area": "Biology (graduated with honors)",
+      "studyType": "Bachelor",
+      "startDate": "2011-08-08",
+      "endDate": "2016-08-05",
+    },
+    {
+      "institution": "Stanford University",
+      "area": "Data Mining and Logic",
+      "studyType": "Summer Student",
+      "startDate": "2015-06-22",
+      "endDate": "2015-08-20",
+    },
+    {
+      "institution": "Imperial College London",
+      "area": "Computational Methods in Ecology and Evolution",
+      "studyType": "Masters",
+      "startDate": "2017-10-02",
+      "endDate": "2018-09-30",
+    }
+  ],
+  "awards": [
+    {
+      "title": "Harvey Illumina Award",
+      "date": "2018-09-39",
+      "awarder": "Imperial College London",
+      "summary": "This prize was awarded to the highest mark in my masters program"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Computer Programming",
+      "level": "Intermediate",
+      "keywords": [
+        "R",
+        "Python",
+        "Unix Shell Scripting"
+      ]
+    },
+    {
+      "name": "Productivity ",
+      "level": "Intermediate",
+      "keywords": [
+        "Latex/Bibtex",
+        "SQL",
+        "GitHub"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Ecology",
+      "keywords": [
+        "Interaction Networks",
+        "Population Ecology",
+        "Species Coexistence",
+        "Theoretical Ecology",
+        "Community Dynamics"
+      ]
+    },
+    {
+      "name": "Miscellaneous",
+      "keywords": [
+        "Computer Programming",
+        "Photography",
+        "Cinema"
+      ]
+    }
+  ]
+}
