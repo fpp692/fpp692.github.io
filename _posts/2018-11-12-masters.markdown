@@ -1,0 +1,47 @@
+---
+layout: post
+title: "Stability of gut bacteria communities"
+date: 2018-11-12
+description: 
+image: /assets/images/bacterias.jpg
+author: Fernando Pedraza Pérez
+tags: 
+  - Science
+---
+
+
+This project was carried out under the supervision of Dr. Timothy Barraclough at Silwood Park,
+Imperial College London as part of my masters degree. 
+
+Keywords: Biodiversity; Functional Redundancy; Gut Microbiota; Interactions; Perturbation; Stability
+
+## Motivation
+
+The adequate functioning of the microbiota across variable environmental conditions is of 
+vital importance for human health. Alterations to microbiota composition and functioning
+have been found to occur in all types of diseases from irritable bowel syndrome to cancer. 
+Therefore, there is a large interest in designing communities with optimized function and stability. 
+Yet, there is a lack of understanding of the ecological processes that shape the microbiota 
+and dictate its sensitivity to perturbations. 
+
+## Research Strategy
+
+Microbiota community dynamics were simulated using a chemostat-based, differential equation 
+model, that included the main bacterial functional groups that inhabit the human gut. 
+Communities were simulated to test the role of diversity, functional redundancy and resource 
+exploitation strategies on ecological and functional resilience to changes in diet.
+
+## Main findings
+
+Overall community diversity did not seem to increase community resilience to changes in 
+diet. Instead, functional redundancy tened to increase ecological and functional displacements
+as a result of perturbations. Furthermore, specialist exploitation strategies buffered 
+perturbation effects at both the species and community level. These results highlight the
+importance of functional diversity on microbiota sensitivity to changes in diet. 
+
+## More information...
+
+If you want to know more about this project please contact me at fp4817@ic.ac.uk.
+
+![Placeholder](/assets/images/landscape.pdf)
+
