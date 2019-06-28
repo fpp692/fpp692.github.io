@@ -1,6 +1,6 @@
 # Site/SEO settings
 email: fernando.pedraza@ieu.uzh.ch
-baseurl: ""
+baseurl: "https://fpp692.github.io."
 paginate: 12
 paginate_path: "/page/:num"
 permalink: /:year/:month/:day/:title/
@@ -9,7 +9,7 @@ google_analytics:
 name: Fernando Pedraza Pérez
 title: caudex
 description: letras y fotos
-url: fpp692.io
+url: https://fpp692.github.io.
 twitter_username: Fer_Pedraza92
 default_img: /assets/images/DSC_0076.jpg
 social:
