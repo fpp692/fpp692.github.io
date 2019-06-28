@@ -11,7 +11,7 @@ tags:
 
 
 This project was carried out under the supervision of Dr. Carlos Martorell at Facultad
-de Ciencias, Universidad Nacional Aut\'onoma de M\'exico. 
+de Ciencias, Universidad Nacional Autónoma de México. 
 
 Keywords: High-altitude communities; Nurse plant; Interspecific interactions; Stress amelioration; Thermal buffering
 
@@ -50,8 +50,10 @@ between the effects of benefactor plants on particular stressors, and the stress
 of different associated species, determine the dynamics of the plant-plant interaction, 
 perhaps explaining why facilitative interactions are highly species-specific.
 
-## More information...
+## More information
 
-If you want to know more about this project please contact me at fp4817@ic.ac.uk.
+Please contact me if you would like to know more about this project.
+
+Photo credits: Diego García Meza
 
 ![Placeholder](/assets/images/izta2.jpg)

@@ -34,14 +34,13 @@ exploitation strategies on ecological and functional resilience to changes in di
 ## Main findings
 
 Overall community diversity did not seem to increase community resilience to changes in 
-diet. Instead, functional redundancy tened to increase ecological and functional displacements
+diet. Instead, functional redundancy tended to increase ecological and functional displacements
 as a result of perturbations. Furthermore, specialist exploitation strategies buffered 
 perturbation effects at both the species and community level. These results highlight the
 importance of functional diversity on microbiota sensitivity to changes in diet. 
 
-## More information...
+## More information
 
-If you want to know more about this project please contact me at fp4817@ic.ac.uk.
+Please contact me if you would like to know more about this project.
 
-![Placeholder](/assets/images/landscape.pdf)
 

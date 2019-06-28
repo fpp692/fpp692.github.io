@@ -1,0 +1,51 @@
+---
+layout: post
+date: 2019-06-22
+title: Nayarit, MX. Los músicos, ceviche y playa del barro
+image: /assets/images/7A555F97-E6B8-4CE7-B8ED-79AF5EAF4D73.jpg
+author: Fernando Pedraza Pérez
+tags:
+  - Photography
+---
+
+Allá por las costas de San Pancho está la playa del barro.
+
+Mas allá venden ceviche, cantan y buscan tesoros.
+
+
+<figure class="align-center">
+  <figcaption> La de barro</figcaption>
+  <a href="#"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/FA9F05B8-B4AE-4D14-B2CB-C446B1996C79.jpg" alt=""></a>
+</figure>
+
+
+<figure class="align-center">
+  <figcaption> Las huellas</figcaption>
+  <a href="#"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/25BDFEA4-CF2B-4353-8359-D12DE64E3933.jpg" alt=""></a>
+</figure>
+
+
+<figure class="align-center">
+  <figcaption>Banda</figcaption>
+  <a href="#"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/A2255C9A-D62A-4D2C-86B7-2F3246A20169.jpg" alt=""></a>
+</figure>
+
+<figure class="align-center">
+  <figcaption> Camarón en bici</figcaption>
+  <a href="#"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/A696173E-265D-4DAA-829C-59E26A1B85D8.jpg" alt=""></a>
+</figure>
+
+<figure class="align-center">
+  <figcaption> Acordeón</figcaption>
+  <a href="#"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/87C169EF-17AC-40B9-9303-7E2F09453895.jpg" alt=""></a>
+</figure>
+
+<figure class="align-center">
+  <figcaption> Tesoros y pata de mula</figcaption>
+  <a href="#"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/101ADAF1-95FF-4287-B5A1-7B3D4672E792.jpg" alt=""></a>
+</figure>
+
+<figure class="align-center">
+  <figcaption>en las nubes</figcaption>
+  <a href="#"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/IMG_0128.jpg" alt=""></a>
+</figure>

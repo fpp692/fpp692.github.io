@@ -1,15 +1,14 @@
 # Site/SEO settings
-email: fpp.692@gmail.com
+email: fernando.pedraza@ieu.uzh.ch
 baseurl: ""
 paginate: 12
 paginate_path: "/page/:num"
 permalink: /:year/:month/:day/:title/
-google_analytics: 
+google_analytics:
 
 name: Fernando Pedraza Pérez
-title: Caudex
-description: >
-  A blog about nothing.
+title: caudex
+description: letras y fotos
 url: http://barber.samesies.io
 twitter_username: Fer_Pedraza92
 default_img: /assets/images/DSC_0076.jpg
@@ -17,13 +16,9 @@ social:
   - name: twitter
     url: https://twitter.com/Fer_Pedraza92
   - name: instagram
-    url: https://www.instagram.com/thomas.vaeth/
-  - name: linkedin
-    url: https://www.linkedin.com/in/thomasvaeth/
+    url: https://www.instagram.com/fpedraza
   - name: github
     url: https://github.com/fpp692
-  - name: codepen
-    url: https://codepen.io/thomasvaeth/
 
 # Contact settings
 contact_img: /assets/images/DSC_0076.jpg
@@ -39,7 +34,7 @@ mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 # Author settings
 author:
   - name: Fernando Pedraza Pérez
-    bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
+    bio: I am interested in ecology, computers, photos and film. I am currently carrying out my PhD at the Bascompte lab in Zurich. 
     url: fpp692.io
 
 # Build settings
