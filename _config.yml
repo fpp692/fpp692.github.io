@@ -9,7 +9,7 @@ google_analytics:
 name: Fernando Pedraza Pérez
 title: caudex
 description: letras y fotos
-url: http://barber.samesies.io
+url: fpp692.io
 twitter_username: Fer_Pedraza92
 default_img: /assets/images/DSC_0076.jpg
 social:
@@ -34,7 +34,7 @@ mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 # Author settings
 author:
   - name: Fernando Pedraza Pérez
-    bio: I am interested in ecology, computers, photos and film. I am currently carrying out my PhD at the Bascompte lab in Zurich. 
+    bio: I am interested in ecology, computers, photos and film. I am currently carrying out my PhD at the Bascompte lab in Zurich.
     url: fpp692.io
 
 # Build settings
