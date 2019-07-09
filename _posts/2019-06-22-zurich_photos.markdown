@@ -9,9 +9,7 @@ tags:
   - Photography
 ---
 
-Acá hasta el agua corre en orden.
-
-Ni salpica.
+Aquí hasta el agua corre en orden, ni salpica.
 
 <figure class="align-center">
   <figcaption> Río 1</figcaption>

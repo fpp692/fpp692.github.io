@@ -8,10 +8,7 @@ tags:
   - Photography
 ---
 
-Allá por las costas de San Pancho está la playa del barro.
-
-Mas allá venden ceviche, cantan y buscan tesoros.
-
+En las costas de San Pancho está la playa del barro. Y más allá venden ceviche, cantan y buscan tesoros.
 
 <figure class="align-center">
   <figcaption> La de barro</figcaption>
