@@ -14,13 +14,13 @@
 //   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
 // }
 
-@font-face {
-  font-family: 'Rubik';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Rubik Regular'), local('Rubik-Regular'), url(https://fonts.googleapis.com/css?family=Rubik&display=swap" rel="stylesheet);
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
-}
+// @font-face {
+//   font-family: 'Rubik';
+//   font-style: normal;
+//   font-weight: 400;
+//   src: local('Rubik Regular'), local('Rubik-Regular'), url(https://fonts.googleapis.com/css?family=Rubik&display=swap" rel="stylesheet);
+//   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+// }
 
 
 // Bold
@@ -32,10 +32,29 @@
 //   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
 // }
 
+// @font-face {
+//   font-family: 'Rubik';
+//   font-style: normal;
+//   font-weight: 700;
+//   src: local('Rubik Bold'), local('Rubik-Bold'), url(https://fonts.googleapis.com/css?family=Rubik&display=swap" rel="stylesheet);
+//   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+// }
+
+// Regular
+// Regular
 @font-face {
-  font-family: 'Rubik';
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Nunito Regular'), local('Nunito-Regular'), url(https://fonts.googleapis.com/css?family=Nunito&display=swap" rel="stylesheet);
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+
+// Regular
+@font-face {
+  font-family: 'Nunito';
   font-style: normal;
   font-weight: 700;
-  src: local('Rubik Bold'), local('Rubik-Bold'), url(https://fonts.googleapis.com/css?family=Rubik&display=swap" rel="stylesheet);
-  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+  src: local('Nunito Bold'), local('Nunito-Bold'), url(https://fonts.googleapis.com/css?family=Nunito&display=swap" rel="stylesheet);
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
 }
