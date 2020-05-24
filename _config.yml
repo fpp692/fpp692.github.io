@@ -55,3 +55,14 @@ exclude:
   - gulpfile.js
   - package.json
   - README.md
+
+defaults:
+  -
+    scope:
+      path: "_slides"  #__
+    values:
+      layout: "iframe"
+
+collections:
+  slides:
+    output: true
